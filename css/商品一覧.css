@@ -1,0 +1,192 @@
+@charset "utf-8";
+
+body{
+ margin-left:0%;
+ margin-right:0%;
+ margin-bottom:0%;
+}
+#bibibibi{
+  width:100%;
+  border-top: solid 25px #f4ffed;
+  background-color:#f4ffed;
+}
+#picture{
+ width:15%;
+ margin-left: 15%;
+}
+#pictureoneone{
+ margin-left:12.5%;
+}
+#picture0{
+ width:15%;
+ margin-left: 25%;
+ margin-top: 5%;
+}
+#picture01{
+ width:15%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picture02{
+ width:15%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picture03{
+ width:15%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picture04{
+ width:15%;
+ margin-left: 25%;
+ margin-top: 5%;
+}
+#picture05{
+ width:15%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#pictureone{
+ width:85%;
+ margin-left:33%;
+}
+#picture1{
+ width:15.5%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picture1o{
+ width:15.5%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picture1t{
+ width:15.5%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picturetwo{
+ width:85%;
+ margin-left:33%;
+}
+#picture2{
+ width:15.5%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picturethree{
+ width:85%;
+ margin-left:33%;
+}
+#picture3{
+ width:15.5%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picturefour{
+ width:85%;
+ margin-left:33%;
+}
+#picture4{
+ width:15.5%;
+ margin-left: 1.5%;
+ margin-top: 5%;
+}
+#picture6{
+ width:10%;
+ margin-top:0%;
+ margin-left:0%;
+}
+#picture7{
+ width:75%;
+ margin-top:2.5%;
+ margin-left: 2%;
+}
+#picture8{
+ width:80%;
+ margin-left: 12%;
+}
+#footer-inner {
+  background: none;
+  margin-left: 25%;
+}
+#footer-inner-1{
+  margin-left:65%
+}
+#footer-inner-2{
+  margin-left:65%
+}
+#footer-inner-3{
+  margin-left:65%
+}
+#footer-inner-4{
+  margin-left:65%
+}
+#footer-inner-5{
+  margin-left:65%
+}
+#footer-inner-6{
+  margin-left:65%
+}
+#footer-inner-7{
+  margin-left:50%
+}
+#footer-inner-8{
+  margin-left:85%
+}
+#footer-inner-9{
+  margin-left:85%
+}
+#footer-inner-10{
+  margin-left:85%
+}
+#footer-inner-11{
+  margin-left:85%
+}
+#footer-inner-12{
+  margin-left:85%
+}
+#word{
+ margin-left: 35%;
+ font-size:30px;
+}
+#word1{
+ margin-left: 35%;
+ font-size:30px;
+}
+#word2{
+ margin-left: 35%;
+ font-size:30px;
+}
+#word3{
+ margin-left: 35%;
+ font-size:30px;
+}
+#word4{
+ margin-left: 35%;
+ font-size:30px;
+}
+#hihihi{
+  width:100%;
+  border-top: solid 75px #ffffff;
+  background-color:#ffffff;
+}
+hl{
+ width:21%;
+ position:fixed;
+ top:14%;
+ left:0px;
+ padding:10px;
+ margin:0px;
+ margin-left:7.5%;
+ text-align:center;
+ font-size:20px;
+}
+a{
+ text-decoration:none;
+ color:#000;
+}
+#rh{
+ margin-left:25%;
+}
